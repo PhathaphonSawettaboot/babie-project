@@ -1,0 +1,269 @@
+Node,Degree,Community,Value,Count,Column
+1,25.0,0.0,,,
+13,17.0,0.0,13,17.0,No.  Movie
+14,16.0,0.0,,,
+16,13.0,0.0,16,13.0,No.  Movie
+19,16.0,0.0,,,
+23,13.0,0.0,,,
+24,16.0,0.0,,,
+25,18.0,0.0,,,
+3,23.0,0.0,,,
+32,16.0,0.0,,,
+33,17.0,0.0,,,
+34,16.0,0.0,,,
+37,23.0,0.0,,,
+4,15.0,0.0,,,
+41,18.0,0.0,,,
+42,26.0,0.0,,,
+Barbie Brooklyn,8.0,0.0,,,
+Black/Green,3.0,0.0,,,
+Brown,98.0,0.0,,,
+Brown/Blonde,4.0,0.0,,,
+Brown/Pink,7.0,0.0,,,
+Christie,5.0,0.0,,,
+Dark,39.0,0.0,,,
+Dark Blue,4.0,0.0,,,
+Dark Gray,17.0,0.0,,,
+Dark Pink,4.0,0.0,,,
+Dark/Blue,4.0,0.0,,,
+Dark/Gray,4.0,0.0,,,
+Dark/White,4.0,0.0,,,
+Deep,32.0,0.0,,,
+Deep Brown,10.0,0.0,,,
+Gray,42.0,0.0,,,
+Ken,33.0,0.0,,,
+Light Gray,15.0,0.0,,,
+Light Gray/White,4.0,0.0,,,
+Male,85.0,0.0,,,
+Medium,49.0,0.0,Medium,49.0,Skin Tone
+Medium Brown,5.0,0.0,,,
+Medium Deep,20.0,0.0,,,
+Multicolor,3.0,0.0,,,
+Silver,9.0,0.0,,,
+Teal,15.0,0.0,,,
+Teresa,13.0,0.0,,,
+Tommy,10.0,0.0,,,
+White,17.0,0.0,,,
+White/Gray,3.0,0.0,,,
+Yellow/Blue,4.0,0.0,,,
+11,16.0,1.0,,,
+12,17.0,1.0,,,
+15,12.0,1.0,,,
+17,21.0,1.0,,,
+18,21.0,1.0,,,
+2,19.0,1.0,,,
+20,15.0,1.0,,,
+21,14.0,1.0,,,
+22,17.0,1.0,,,
+26,17.0,1.0,,,
+27,17.0,1.0,,,
+29,14.0,1.0,,,
+31,18.0,1.0,,,
+36,14.0,1.0,,,
+38,21.0,1.0,,,
+39,23.0,1.0,,,
+40,26.0,1.0,,,
+9,22.0,1.0,,,
+Barbie,51.0,1.0,,,
+Blonde,60.0,1.0,,,
+Blonde/Pink,10.0,1.0,,,
+Blue,82.0,1.0,,,
+Blue/Yellow,4.0,1.0,,,
+Brown/Purple,9.0,1.0,,,
+Dark Blonde,9.0,1.0,,,
+Dark Brown,30.0,1.0,,,
+Dark Red,6.0,1.0,,,
+Deep Blue,15.0,1.0,,,
+Female,111.0,1.0,,,
+Kelly / Chelsea,21.0,1.0,,,
+Light Blonde,12.0,1.0,,,
+Light Blue,17.0,1.0,,,
+Light Brown,35.0,1.0,,,
+Light Green,14.0,1.0,,,
+Light Medium,97.0,1.0,,,
+Light Teal,7.0,1.0,,,
+Pink,28.0,1.0,,,
+Purple/Orange,4.0,1.0,,,
+Red,7.0,1.0,,,
+Skipper,16.0,1.0,,,
+Stacie,18.0,1.0,,,
+10,20.0,2.0,,,
+28,18.0,2.0,,,
+30,24.0,2.0,,,
+35,20.0,2.0,,,
+5,18.0,2.0,,,
+6,22.0,2.0,,,
+7,16.0,2.0,,,
+8,20.0,2.0,,,
+Amber,5.0,2.0,,,
+Black,9.0,2.0,,,
+Blonde/Blue,9.0,2.0,,,
+Blue/Pink,4.0,2.0,,,
+Blue/Silver,4.0,2.0,,,
+Brown/Blue,7.0,2.0,,,
+Courtney,5.0,2.0,,,
+Dark Brown/Pink,4.0,2.0,,,
+Gray/White,4.0,2.0,,,
+Green,69.0,2.0,,,
+Hazel,7.0,2.0,,,
+Light,78.0,2.0,,,
+Light Purple,8.0,2.0,,,
+Orange,13.0,2.0,,,
+Pale Blonde,4.0,2.0,,,
+Pink/Blue,4.0,2.0,,,
+Platinum Blonde,8.0,2.0,,,
+Purple,40.0,2.0,,,
+Purple and Yellow,5.0,2.0,,,
+Purple/Yellow,5.0,2.0,,,
+Rainbow,7.0,2.0,,,
+Raquelle,6.0,2.0,,,
+Red/Cyan,4.0,2.0,,,
+Red/Orange,4.0,2.0,,,
+Redhair,26.0,2.0,,,
+Strawberry Blonde,5.0,2.0,,,
+Violet/Pink,4.0,2.0,,,
+Yellow,13.0,2.0,,,
+,,,1,17.0,No.  Movie
+,,,10,14.0,No.  Movie
+,,,11,12.0,No.  Movie
+,,,12,12.0,No.  Movie
+,,,14,20.0,No.  Movie
+,,,15,15.0,No.  Movie
+,,,17,14.0,No.  Movie
+,,,18,18.0,No.  Movie
+,,,19,15.0,No.  Movie
+,,,2,12.0,No.  Movie
+,,,20,18.0,No.  Movie
+,,,21,10.0,No.  Movie
+,,,22,15.0,No.  Movie
+,,,23,15.0,No.  Movie
+,,,24,17.0,No.  Movie
+,,,25,9.0,No.  Movie
+,,,26,13.0,No.  Movie
+,,,27,12.0,No.  Movie
+,,,28,17.0,No.  Movie
+,,,29,13.0,No.  Movie
+,,,3,17.0,No.  Movie
+,,,30,23.0,No.  Movie
+,,,31,11.0,No.  Movie
+,,,32,10.0,No.  Movie
+,,,33,12.0,No.  Movie
+,,,34,11.0,No.  Movie
+,,,35,10.0,No.  Movie
+,,,36,8.0,No.  Movie
+,,,37,19.0,No.  Movie
+,,,38,15.0,No.  Movie
+,,,39,16.0,No.  Movie
+,,,4,16.0,No.  Movie
+,,,40,20.0,No.  Movie
+,,,41,15.0,No.  Movie
+,,,42,20.0,No.  Movie
+,,,5,16.0,No.  Movie
+,,,6,21.0,No.  Movie
+,,,7,17.0,No.  Movie
+,,,8,12.0,No.  Movie
+,,,9,19.0,No.  Movie
+,,,Barbie,52.0,Barbie Cast
+,,,Barbie Brooklyn,4.0,Barbie Cast
+,,,Christie,1.0,Barbie Cast
+,,,Courtney,1.0,Barbie Cast
+,,,Kelly / Chelsea,18.0,Barbie Cast
+,,,Ken,24.0,Barbie Cast
+,,,Raquelle,3.0,Barbie Cast
+,,,Skipper,11.0,Barbie Cast
+,,,Stacie,13.0,Barbie Cast
+,,,Teresa,7.0,Barbie Cast
+,,,Tommy,4.0,Barbie Cast
+,,,,488.0,Barbie Cast
+,,,Blue,1.0,Skin Tone
+,,,Brown,4.0,Skin Tone
+,,,Deep,18.0,Skin Tone
+,,,Gray,2.0,Skin Tone
+,,,Green,6.0,Skin Tone
+,,,Light,113.0,Skin Tone
+,,,Light Medium,400.0,Skin Tone
+,,,Light Purple,1.0,Skin Tone
+,,,Light Purple,1.0,Eyes
+,,,Medium Deep,15.0,Skin Tone
+,,,Pink,9.0,Skin Tone
+,,,Purple,2.0,Skin Tone
+,,,Purple and Yellow,2.0,Skin Tone
+,,,White,2.0,Skin Tone
+,,,Yellow,2.0,Skin Tone
+,,,Yellow,2.0,Eyes
+,,,Yellow,2.0,Hair
+,,,Amber,2.0,Eyes
+,,,Black,2.0,Eyes
+,,,Black/Green,1.0,Eyes
+,,,Blue,234.0,Eyes
+,,,Brown,214.0,Eyes
+,,,Deep,8.0,Eyes
+,,,Deep Blue,7.0,Eyes
+,,,Deep Brown,1.0,Eyes
+,,,Gray,7.0,Eyes
+,,,Green,85.0,Eyes
+,,,Hazel,2.0,Eyes
+,,,Light Blue,10.0,Eyes
+,,,Light Brown,13.0,Eyes
+,,,Light Green,5.0,Eyes
+,,,Light Teal,3.0,Eyes
+,,,Multicolor,1.0,Eyes
+,,,Multicolor,1.0,Hair
+,,,Pink,1.0,Eyes
+,,,Purple,18.0,Eyes
+,,,Teal,8.0,Eyes
+,,,Yellow/Blue,1.0,Eyes
+,,,Black,5.0,Hair
+,,,Blonde,155.0,Hair
+,,,Blonde/Blue,2.0,Hair
+,,,Blonde/Pink,5.0,Hair
+,,,Blue,14.0,Hair
+,,,Blue/Pink,3.0,Hair
+,,,Blue/Silver,1.0,Hair
+,,,Blue/Yellow,1.0,Hair
+,,,Brown,166.0,Hair
+,,,Brown/Blonde,1.0,Hair
+,,,Brown/Blue,2.0,Hair
+,,,Brown/Pink,2.0,Hair
+,,,Brown/Purple,4.0,Hair
+,,,Dark,41.0,Hair
+,,,Dark Blonde,3.0,Hair
+,,,Dark Blue,1.0,Hair
+,,,Dark Brown,24.0,Hair
+,,,Dark Brown/Pink,1.0,Hair
+,,,Dark Gray,11.0,Hair
+,,,Dark Pink,1.0,Hair
+,,,Dark Red,3.0,Hair
+,,,Dark/Blue,1.0,Hair
+,,,Dark/Gray,1.0,Hair
+,,,Dark/White,1.0,Hair
+,,,Deep Brown,2.0,Hair
+,,,Gray,35.0,Hair
+,,,Gray/White,1.0,Hair
+,,,Green,9.0,Hair
+,,,Hazel,1.0,Hair
+,,,Light Blonde,7.0,Hair
+,,,Light Brown,10.0,Hair
+,,,Light Gray,9.0,Hair
+,,,Light Gray/White,1.0,Hair
+,,,Medium Brown,1.0,Hair
+,,,Orange,7.0,Hair
+,,,Pale Blonde,1.0,Hair
+,,,Pink,21.0,Hair
+,,,Pink/Blue,1.0,Hair
+,,,Platinum Blonde,3.0,Hair
+,,,Purple,19.0,Hair
+,,,Purple/Orange,1.0,Hair
+,,,Purple/Yellow,2.0,Hair
+,,,Rainbow,2.0,Hair
+,,,Red,3.0,Hair
+,,,Red/Cyan,1.0,Hair
+,,,Red/Orange,1.0,Hair
+,,,Redhair,21.0,Hair
+,,,Silver,3.0,Hair
+,,,Strawberry Blonde,2.0,Hair
+,,,Violet/Pink,1.0,Hair
+,,,White,8.0,Hair
+,,,White/Gray,1.0,Hair
+,,,Female,417.0,Gender
+,,,Male,209.0,Gender
